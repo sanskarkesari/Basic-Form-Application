@@ -18,7 +18,7 @@ This is a basic web application built using Flask for the backend, HTML, CSS, an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/sanskarkesari/Basic-Form-Application.git
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
